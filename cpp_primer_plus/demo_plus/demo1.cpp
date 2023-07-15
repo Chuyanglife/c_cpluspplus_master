@@ -6,6 +6,6 @@ int main(){
     cout<<"mapukila mom"<<endl;
     cin.get();
     cout<<"mapukila sis"<<endl;
-    system("pause");
+    //system("pause");
     return 0;
 }
