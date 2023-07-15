@@ -5,6 +5,7 @@ int main(){
     cin.get();
     cout<<"mapukila mom"<<endl;
     cin.get();
-    //system("pause");
+    cout<<"mapukila sis"<<endl;
+    system("pause");
     return 0;
 }
