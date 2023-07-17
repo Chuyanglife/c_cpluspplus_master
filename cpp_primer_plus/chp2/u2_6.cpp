@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 double convert(double lightyear){
-    double astronomical 
+    double astronomical = lightyear*
 }
 int main(){
     cout<<"Enter the number of light years: "<<endl;
