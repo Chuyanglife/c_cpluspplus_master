@@ -5,7 +5,7 @@ double convert(double lightyear){
     return astronomical;
 }
 int main(){
-    cout<<"Enter the number of light years: "<<endl;
+    cout<<"Enter the number of light years: ";
     double light_year;
     cin>>light_year;
     double astronimical_units=convert(light_year);
