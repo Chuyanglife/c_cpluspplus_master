@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     cout<<"Wong Yao Hong"<<endl;
-    cout<<"æ–°åŒ—å¸‚ä¸‰å³¡åŒºå­¦å‹¤è·¯198å·ä¹‹3å·19æ¥¼"<<endl;
+    cout<<"ÐÂ±±ÊÐÈýÏ¿ÇøÑ§ÇÚÂ·198ºÅÖ®3ºÅ19Â¥"<<endl;
     system("pause");
     return 0;
 }
