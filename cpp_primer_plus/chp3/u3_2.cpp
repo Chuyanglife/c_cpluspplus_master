@@ -10,7 +10,7 @@ int main(){
     cin>>weight;
     cout<<"So you are "<<feet<<" feet and "<<inches<<" inches height and "<<weight<<" pounds weight."<<endl;
     
-    int 
+    int inche
     cout<<"That means you are "<<" meters height and "<<" kilograms weight."<<endl;
     cout<<"And your BMI is "<<endl;
     system("pause");
