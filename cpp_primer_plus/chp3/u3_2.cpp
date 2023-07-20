@@ -11,7 +11,7 @@ int main(){
     cout<<"So you are "<<feet<<" feet and "<<inches<<" inches height and "<<weight<<" pounds weight."<<endl;
     
     int height_feet,height_inches,height_meters;
-    const double 
+    height_meters=
     cout<<"That means you are "<<" meters height and "<<" kilograms weight."<<endl;
     cout<<"And your BMI is "<<endl;
     system("pause");
