@@ -9,7 +9,8 @@ int main(){
     cout<<"Enter your weight: ";
     cin>>weight;
 
-    cout<<"So you are "<<feet<<" feet and "<<inches<<" inches height and "<<weight<<""
+    cout<<"So you are "<<feet<<" feet and "<<inches<<" inches height and "<<weight<<" pounds weight."<<endl;
+    cout<<"That means you are "<<" meters height and "
     system("pause");
     return 0;
 }
