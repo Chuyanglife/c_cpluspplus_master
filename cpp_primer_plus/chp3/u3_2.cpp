@@ -22,7 +22,8 @@ int main(){
     weight_kg=weight/kg_per_pounds;
     cout<<"That means you are "<<height_meters<<" meters height and "<<weight_kg<<" kilograms weight."<<endl;
 
-    
+    double BMI;
+    BMI=weight_kg/
     cout<<"And your BMI is "<<endl;
     system("pause");
     return 0;
