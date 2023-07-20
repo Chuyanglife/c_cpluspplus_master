@@ -23,7 +23,7 @@ int main(){
     cout<<"That means you are "<<height_meters<<" meters height and "<<weight_kg<<" kilograms weight."<<endl;
 
     double BMI;
-    BMI=weight_kg/
+    BMI=weight_kg/height_meters
     cout<<"And your BMI is "<<endl;
     system("pause");
     return 0;
