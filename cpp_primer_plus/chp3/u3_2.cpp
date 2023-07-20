@@ -14,7 +14,6 @@ int main(){
     double height_meters;
     const int feet_per_inches=12;
     const double meters_per_inches=0.0254;
-    const double 
     height_feet=feet*feet_per_inches;
     height_meters=height_feet+inches;
     cout<<"That means you are "<<height_meters<<" meters height and "<<" kilograms weight."<<endl;
