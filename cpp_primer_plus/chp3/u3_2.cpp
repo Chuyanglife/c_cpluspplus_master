@@ -16,7 +16,8 @@ int main(){
     const double meters_per_inches=0.0254;
     const double kg_per_pounds=2.2;
     height_inches=feet*inches_per_feet+inches;
-    height_meters=height_inches+;
+    height_meters=height_inches*meters_per_inches;
+    
     cout<<"That means you are "<<height_meters<<" meters height and "<<" kilograms weight."<<endl;
     cout<<"And your BMI is "<<endl;
     system("pause");
