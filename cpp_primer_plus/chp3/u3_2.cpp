@@ -8,6 +8,8 @@ int main(){
     cin>>inches;
     cout<<"Enter your weight: ";
     cin>>weight;
+
+    cout<<"So you are "<<feet<<" feet and "<<inches<<" inches height and "<<weight<<""
     system("pause");
     return 0;
 }
