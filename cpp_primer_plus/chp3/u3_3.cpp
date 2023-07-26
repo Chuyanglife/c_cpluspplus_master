@@ -10,7 +10,7 @@ int main(){
     cin>>min;
     cout<<"Finally, enter the seconds of arc: ";
     cin>>sec;
-
+    
     cout<<deg<<" degrees, "<<min<<" minutes, "<<sec<<" seconds = "<<latitude<<" degrees"<<endl;
     system("pause");
     return 0;
