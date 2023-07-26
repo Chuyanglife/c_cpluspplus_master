@@ -146,8 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0df13eb848748ab1",
+  "active": "3bf2ff4ed86cac3d",
   "lastOpenFiles": [
+    "cpp_primer_plus/chp3/u3_4.exe",
+    "cpp_primer_plus/chp3/u3_4.cpp",
     "cpp_primer_plus/exam/test3(stl)",
     "cpp_primer_plus/exam/test2(advanced)",
     "cpp_primer_plus/exam/test1(grammar)",
@@ -156,8 +158,6 @@
     "cpp_primer_plus/exam/test(grammar)",
     "cpp_primer_plus/chp3/u3_2.exe",
     "cpp_primer_plus/exam/test02",
-    "cpp_primer_plus/exam/test01/test02",
-    "cpp_primer_plus/exam/test01",
-    "cpp_primer_plus/chp3/u3_1.cpp"
+    "cpp_primer_plus/exam/test01/test02"
   ]
 }
