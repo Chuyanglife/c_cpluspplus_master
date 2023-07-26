@@ -11,7 +11,7 @@ int main(){
     cout<<"Finally, enter the seconds of arc: ";
     cin>>sec;
 
-    cout<<deg<<" degrees, "<<min<<" minutes, "<<sec<<" seconds = "<<final_deg<<" degrees"<<endl;
+    cout<<deg<<" degrees, "<<min<<" minutes, "<<sec<<" seconds = "<<latitude<<" degrees"<<endl;
     system("pause");
     return 0;
 }
