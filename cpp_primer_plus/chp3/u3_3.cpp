@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int deg,min,sec;
-    double final_deg=0;
+    double latitude=0;
     cout<<"Enter a latitude in degrees, minutes, and seconds:"<<endl;
     cout<<"First, enter the degrees: ";
     cin>>deg;
