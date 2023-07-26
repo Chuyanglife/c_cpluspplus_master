@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6982e416cbaebb17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp keynote.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "cpp keynote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "cpp keynote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "cpp keynote.md"
               }
             }
           }
@@ -146,8 +159,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3bf2ff4ed86cac3d",
+  "active": "6982e416cbaebb17",
   "lastOpenFiles": [
+    "README.md",
+    "cpp keynote.md",
     "cpp_primer_plus/chp3/u3_4.exe",
     "cpp_primer_plus/chp3/u3_4.cpp",
     "cpp_primer_plus/exam/test3(stl)",
@@ -157,7 +172,6 @@
     "cpp_primer_plus/exam/test(advanced)",
     "cpp_primer_plus/exam/test(grammar)",
     "cpp_primer_plus/chp3/u3_2.exe",
-    "cpp_primer_plus/exam/test02",
-    "cpp_primer_plus/exam/test01/test02"
+    "cpp_primer_plus/exam/test02"
   ]
 }
