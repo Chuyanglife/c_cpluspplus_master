@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    long long int i;
+    long long i;
     cin>>i;
     cout<<i;
     system("pause");
