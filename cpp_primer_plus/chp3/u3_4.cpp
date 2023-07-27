@@ -5,7 +5,7 @@ int main(){
     long d,h,m,s;
     cout<<"Enter the number of seconds: ";
     cin>>sec;
-    const long 
+    const long int
     cout<<sec<<" seconds = "<<" days,"<<" hours,"<<" minutes,"<<" seconds"<<endl;
     system("pause");
     return 0;
