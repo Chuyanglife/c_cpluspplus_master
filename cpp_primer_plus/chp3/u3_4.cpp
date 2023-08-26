@@ -11,8 +11,11 @@ int main(){
     int convert;
     s=sec%sec_per_minute;
     convert=sec/sec_per_minute;//min
+    m=convert%min_per_hour;
+    convert=convert/min_per_hour;//hour
+    h=convert%hour_per_day;
 
-    cout<<sec<<" seconds = "<<" days, "<<" hours, "<<" minutes, "<<s<<" seconds"<<endl;
+    cout<<sec<<" seconds = "<<" days, "<<h<<" hours, "<<m<<" minutes, "<<s<<" seconds"<<endl;
     system("pause");
     return 0;
 }
