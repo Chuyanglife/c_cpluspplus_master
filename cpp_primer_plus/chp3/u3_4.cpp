@@ -10,7 +10,8 @@ int main(){
     int s,m,h,d;
     int convert;
     s=sec%sec_per_minute;
-    convert=sec/sec_per_minute;
+    convert=sec/sec_per_minute;//min
+
     cout<<sec<<" seconds = "<<" days, "<<" hours, "<<" minutes, "<<s<<" seconds"<<endl;
     system("pause");
     return 0;
