@@ -8,11 +8,9 @@ int main(){
     system("pause");
     return 0;
 } */
-// 3.4.cpp: 定义控制台应用程序的入口点。
-// 3.4.cpp: 显示时间单位转换
 
 #include <iostream>
- 
+
 int main()
 {
     using namespace std;
