@@ -6,6 +6,7 @@ int main(){
     cin>>sec;
     const int sec_per_minute=60;
     const int min_per_hour=60;
+    const int hour_per_day=24;
     
     cout<<sec<<" seconds = "<<" days,"<<" hours,"<<" minutes,"<<" seconds"<<endl;
     system("pause");
