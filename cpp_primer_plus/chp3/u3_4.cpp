@@ -5,7 +5,8 @@ int main(){
     cout<<"Enter the number of seconds: ";
     cin>>sec;
     const int sec_per_minute=60;
-    const int min_per_
+    const int min_per_hour=60;
+    
     cout<<sec<<" seconds = "<<" days,"<<" hours,"<<" minutes,"<<" seconds"<<endl;
     system("pause");
     return 0;
