@@ -9,7 +9,7 @@ int main(){
     const int hour_per_day=24;
     int s,m,h,d;
     int convert;
-    sec/sec_per_minute
+    s=sec%sec_per_minute;
     cout<<sec<<" seconds = "<<" days,"<<" hours,"<<" minutes,"<<" seconds"<<endl;
     system("pause");
     return 0;
