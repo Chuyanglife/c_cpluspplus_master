@@ -13,6 +13,7 @@ int main(){
     convert=sec/sec_per_minute;//min
     m=convert%min_per_hour;
     convert=convert/min_per_hour;//hour
+    cout<<convert<<endl;
     h=convert%hour_per_day;
 
     cout<<sec<<" seconds = "<<" days, "<<h<<" hours, "<<m<<" minutes, "<<s<<" seconds"<<endl;
