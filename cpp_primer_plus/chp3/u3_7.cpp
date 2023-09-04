@@ -8,8 +8,7 @@ int main(){
     cout<<"Enter your litros:";
     double litros;
     cin>>litros;
-    cout<<setprecision(10);
-    cout<<"Every "<<kilometers<<" kilometers cost "<<litros<<" litros gas in Europe."<<endl;
+    cout<<"Every "<<<<setprecision(10)<<kilometers<<" kilometers cost "<<litros<<" litros gas in Europe."<<endl;
     cout<<"That means you drive "<<"miles using 1 calons gas in the US."<<endl;
     system("pause");
     return 0;
