@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<""<<endl;
+    cout<<"Enter your li"<<endl;
     system("pause");
     return 0;
 }
