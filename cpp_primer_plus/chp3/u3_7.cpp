@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     cout<<"Enter your kilometers:";
-    float kilometers;
+    double kilometers;
     cin>>kilometers;
     cout<<"Enter your litros:";
     double litros;
