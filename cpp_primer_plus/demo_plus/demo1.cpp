@@ -1,4 +1,4 @@
-#include<iostream>
+/* #include<iostream>
 using namespace std;
 int main(){
     //cout<<"mapukila dad";
@@ -11,4 +11,4 @@ int main(){
     cout<<c<<endl;
     //system("pause");
     return 0;
-} 
+}  */
