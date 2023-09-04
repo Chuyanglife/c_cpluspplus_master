@@ -7,7 +7,8 @@ int main(){
     cin.get();
     int a,b,c;
     cin>>a>>b;
-    c=a/b
+    c=a/b;
+    cout<<c<<endl;
     //system("pause");
     return 0;
 } 
