@@ -3,7 +3,8 @@ using namespace std;
 int main(){
     cout<<"Enter your kilometers:";
     cout<<"Enter your litros:";
-    cout<<"Every "<<"kilometers cost "
+    cout<<"Every "<<"kilometers cost "<<"litros gas in Europe."<<endl;
+    
     system("pause");
     return 0;
 }
