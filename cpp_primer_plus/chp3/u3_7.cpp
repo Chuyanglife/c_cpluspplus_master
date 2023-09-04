@@ -4,7 +4,7 @@ int main(){
     cout<<"Enter your kilometers:";
     cout<<"Enter your litros:";
     cout<<"Every "<<"kilometers cost "<<"litros gas in Europe."<<endl;
-    
+    cout<<"That mean "
     system("pause");
     return 0;
 }
