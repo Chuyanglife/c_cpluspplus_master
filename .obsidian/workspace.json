@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "efc112d249de8560",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.5"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "efc112d249de8560",
+  "active": "6982e416cbaebb17",
   "lastOpenFiles": [
     "cpp_primer_plus/chp3/u3_7.exe",
     "cpp_primer_plus/chp3/u3_7.cpp",
