@@ -3,4 +3,5 @@
 ---
 https://blog.csdn.net/CV_Jason/article/details/85244813 long long
 short int long longlong
-float 
+1        4     4        8    
+float double long double
