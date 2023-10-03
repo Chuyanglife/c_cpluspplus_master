@@ -13,6 +13,9 @@ int main(){
     cin>>grade;
     cout<<"What is your age?";
     cin>>age;
+
+    grade= grade+1;
+    
     cout<<"Name:"<<lastname<<","<<firstname<<endl;
     cout<<"Grade:"<<grade<<endl;
     cout<<"Age:"<<age<<endl;
