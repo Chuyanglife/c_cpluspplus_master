@@ -8,5 +8,4 @@ float double long double
 
 ## chp4
 ---
-u4_1
-cin.getline
+
