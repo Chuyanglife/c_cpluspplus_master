@@ -1,7 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-    char 
+    char first_name[100];
+    char last_name[100];
     cout<<"What is your first name?";
     cout<<"What is your last name?";
     cout<<"What letter grade do you deserve?";
