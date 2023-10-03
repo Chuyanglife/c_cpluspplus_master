@@ -16,8 +16,8 @@ int main(){
 
     grade= grade+1;
 
-    cout<<"Name:"<<lastname<<","<<firstname<<endl;
-    cout<<"Grade:"<<grade<<endl;
-    cout<<"Age:"<<age<<endl;
+    cout<<"Name: "<<lastname<<","<<firstname<<endl;
+    cout<<"Grade: "<<grade<<endl;
+    cout<<"Age: "<<age<<endl;
     return 0;
 }
