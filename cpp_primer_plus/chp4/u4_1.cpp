@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<""
+    cout<<"What is your first name?";
     return 0;
 }
