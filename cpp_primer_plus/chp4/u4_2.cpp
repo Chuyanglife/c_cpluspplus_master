@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-    cout<<""
+    cout<<"Enter your name:"<<endl;
+    
     return 0;
 }
