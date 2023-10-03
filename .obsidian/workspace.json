@@ -158,6 +158,8 @@
   },
   "active": "6982e416cbaebb17",
   "lastOpenFiles": [
+    "cpp_primer_plus/chp4/u4_1.cpp",
+    "cpp_primer_plus/chp4",
     "cpp_primer_plus/chp3/u3_7.exe",
     "cpp_primer_plus/chp3/u3_7.cpp",
     "cpp_primer_plus/chp3/u3_6.exe",
@@ -168,8 +170,6 @@
     "cpp_primer_plus/cpp keynote.md",
     "cpp_primer_plus/chp3/u3_4.exe",
     "cpp_primer_plus/chp3/u3_4.cpp",
-    "cpp_primer_plus/exam/test3(stl)",
-    "cpp_primer_plus/exam/test2(advanced)",
-    "cpp_primer_plus/exam/test1(grammar)"
+    "cpp_primer_plus/exam/test3(stl)"
   ]
 }
