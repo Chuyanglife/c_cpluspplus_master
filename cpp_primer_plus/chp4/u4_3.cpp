@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     cout<<"Enter your first name: ";
-    cout<<""
+    cout<<"Enter your last name: ";
+    
     return 0;
 }
