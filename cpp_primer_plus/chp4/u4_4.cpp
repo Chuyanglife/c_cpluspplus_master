@@ -7,7 +7,7 @@ int main(){
     getline(cin,firstname);
     cout<<"Enter your last name: ";
     getline(cin,lastname);
-    
+    finalname=firstname+", "+lastname;
     cout<<"Here's the information in a single string: ";
     return 0;
 }
