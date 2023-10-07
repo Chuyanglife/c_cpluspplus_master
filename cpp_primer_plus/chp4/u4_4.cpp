@@ -8,6 +8,6 @@ int main(){
     cout<<"Enter your last name: ";
     getline(cin,lastname);
     finalname=firstname+", "+lastname;
-    cout<<"Here's the information in a single string: ";
+    cout<<"Here's the information in a single string: "<<finalname<<endl;
     return 0;
 }
