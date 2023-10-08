@@ -1,6 +1,8 @@
 #include<iostream>
 using namespace std;
-struct 
+struct Pizza{
+    
+}
 int main(){
     return 0;
 }
