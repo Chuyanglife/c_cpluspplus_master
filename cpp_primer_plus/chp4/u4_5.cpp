@@ -6,6 +6,6 @@ struct CandyBar{
     int calories;
 };
 int main(){
-
+    
     return 0;
 }
