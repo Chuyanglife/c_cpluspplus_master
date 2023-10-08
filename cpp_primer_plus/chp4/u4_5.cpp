@@ -6,6 +6,6 @@ struct CandyBar{
     int calories;
 };
 int main(){
-    CandyBar snack={"Mocha",};
+    CandyBar snack={"Mocha Munch",2.3,350};
     return 0;
 }
