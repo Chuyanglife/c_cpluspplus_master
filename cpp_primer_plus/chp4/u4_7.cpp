@@ -1,6 +1,7 @@
 #include<iostream>
 using namespace std;
 struct Pizza{
+    string company;
     
 }
 int main(){
