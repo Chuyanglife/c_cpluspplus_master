@@ -2,6 +2,7 @@
 using namespace std;
 struct Pizza{
     string company;
+    double diameter;
     
 }
 int main(){
