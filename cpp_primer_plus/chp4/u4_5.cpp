@@ -7,6 +7,8 @@ struct CandyBar{
 };
 int main(){
     CandyBar snack={"Mocha Munch",2.3,350};
-    cout<<""
+    cout<<"The name of the CandyBar: "<<snack.name<<endl;
+    cout<<"The weight of the candy: "<<snack.weight<<endl;
+    cout<<"The calories information: "<<snack.calories<<endl;
     return 0;
 }
