@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-int main(){
+struct candyBar{
     
+}
+int main(){
+
     return 0;
 }
