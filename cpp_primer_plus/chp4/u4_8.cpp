@@ -12,6 +12,7 @@ int main(){
     cin>>pizza->diameter;
     cout<<"Enter the weight of pizza: ";
     cin>>pizza->weight;
+    cout<<"Enter the name of pizza: ";
     
     return 0;
 }
