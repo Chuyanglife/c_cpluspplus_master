@@ -9,6 +9,7 @@ struct Pizza{
 int main(){
     Pizza *pizza = new Pizza;
     cout<<"Enter the diameter of pizza : ";
-    cin>>pizza->company'
+    cin>>pizza->diameter;
+    cout
     return 0;
 }
