@@ -15,6 +15,11 @@ int main(){
     cout<<"The name of the CandyBar: "<<p_candybar[0].company<<endl;
     cout<<"The diameter of the CandyBar: "<<p_candybar[0].diameter<<endl;
     cout<<"The calories of the CandyBar: "<<p_candybar[0].calories<<endl<<endl;
-    
+    cout<<"The name of the CandyBar: "<<(p_candybar+1)->company<<endl;
+    cout<<"The diameter of the CandyBar: "<<(p_candybar+1)->diameter<<endl;
+    cout<<"The calories of the CandyBar: "<<(p_candybar+1)->calories<<endl<<endl;
+    cout<<"The name of the CandyBar: "<<p_candybar[2].company<<endl;
+    cout<<"The diameter of the CandyBar: "<<p_candybar[2].diameter<<endl;
+    cout<<"The calories of the CandyBar: "<<p_candybar[2].calories<<endl<<endl;
     return 0;
 }
