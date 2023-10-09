@@ -19,6 +19,6 @@ int main(){
     cout<<"Company: "<<pizza->company<<endl;
     cout<<"Diameter: "<<pizza->diameter<<endl;
     cout<<"Weight: "<<pizza->weight<<endl;
-    //delete pizza;
+    delete pizza;
     return 0;
 }
