@@ -7,6 +7,7 @@ struct Pizza{
     double weight;
 };
 int main(){
-
+    Pizza *pizza = new Pizza;
+    
     return 0;
 }
