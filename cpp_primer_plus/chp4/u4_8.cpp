@@ -15,6 +15,7 @@ int main(){
     cout<<"Enter the pizza company: ";
     getline(cin,pizza->company);
     cout<<endl<<"Here is the pizza information: "<<endl;
-    cout<<"Company: "<<pizza->
+    cout<<"Company: "<<pizza->company<<endl;
+    cout<<"Diameter: "<<pizza->
     return 0;
 }
