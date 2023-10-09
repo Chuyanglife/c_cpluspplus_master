@@ -13,10 +13,10 @@ int main(){
     };
     cout<<"The name of the CandyBar: "<<candybar[0].name<<endl;
     cout<<"The weight of the candy: "<<candybar[0].weight<<endl;
-    cout<<"The calories information: "<<candybar[0].calories<<endl;
+    cout<<"The calories information: "<<candybar[0].calories<<endl<<endl;
     cout<<"The name of the CandyBar: "<<candybar[1].name<<endl;
     cout<<"The weight of the candy: "<<candybar[1].weight<<endl;
-    cout<<"The calories information: "<<candybar[1].calories<<endl;
+    cout<<"The calories information: "<<candybar[1].calories<<endl<<endl;
     cout<<"The name of the CandyBar: "<<candybar[2].name<<endl;
     cout<<"The weight of the candy: "<<candybar[2].weight<<endl;
     cout<<"The calories information: "<<candybar[2].calories<<endl;
