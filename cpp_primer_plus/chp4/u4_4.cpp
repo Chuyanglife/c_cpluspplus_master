@@ -3,8 +3,6 @@
 using namespace std;
 int main(){
     string firstname,lastname,finalname;
-    int a;
-    cin>>a;
     cout<<"Enter your first name: ";
     getline(cin,firstname);
     cout<<"Enter your last name: ";
