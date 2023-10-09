@@ -10,6 +10,7 @@ int main(){
     Pizza *pizza = new Pizza;
     cout<<"Enter the diameter of pizza : ";
     cin>>pizza->diameter;
-    cout
+    cout<<"Enter the weight of pizza: ";
+    cin>>pizza
     return 0;
 }
