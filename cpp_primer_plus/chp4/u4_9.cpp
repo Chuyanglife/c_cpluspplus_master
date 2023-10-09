@@ -3,9 +3,10 @@
 using namespace std;
 struct Pizza{
     string company;
-    double diametter
-}
+    double diameter;
+    double weight;
+};
 int main(){
-
+    Pizza *pizza= new Pizza;
     return 0;
 }
