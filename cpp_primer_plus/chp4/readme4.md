@@ -111,4 +111,78 @@ int main(){
 ```
 ### 4.8
 ---
+```cpp=
+#include<iostream>
+#include<string>
+using namespace std;
+struct Pizza{
+    string company;
+    double diameter;
+    double weight;
+};
+int main(){
+    Pizza *pizza = new Pizza;
+    cout<<"Enter the diameter of pizza : ";
+    cin>>pizza->diameter;
+    cout<<"Enter the weight of pizza: ";
+    cin>>pizza->weight;
+    cout<<"Enter the pizza company: ";
+    cin.get();
+    getline(cin,pizza->company);
+    cout<<endl<<"Here is the pizza information: "<<endl;
+    cout<<"Company: "<<pizza->company<<endl;
+    cout<<"Diameter: "<<pizza->diameter<<endl;
+    cout<<"Weight: "<<pizza->weight<<endl;
+    delete pizza;
+    return 0;
+}
+```
 
+### 4.9
+---
+```cpp=
+#include<iostream>
+#include<string>
+using namespace std;
+struct CandyBar{
+    string company;
+    double diameter;
+    int calories;
+};
+int main(){
+    CandyBar *p_candybar = new CandyBar[3]{
+        {"Mocha Munch",2.3,350},
+        {"Big Rabbit",5,300},
+        {"Joy Boy",4.1,430}
+    };
+    cout<<"The name of the CandyBar: "<<p_candybar[0].company<<endl;
+    cout<<"The diameter of the CandyBar: "<<p_candybar[0].diameter<<endl;
+    cout<<"The calories of the CandyBar: "<<p_candybar[0].calories<<endl<<endl;
+    cout<<"The name of the CandyBar: "<<(p_candybar+1)->company<<endl;
+    cout<<"The diameter of the CandyBar: "<<(p_candybar+1)->diameter<<endl;
+    cout<<"The calories of the CandyBar: "<<(p_candybar+1)->calories<<endl<<endl;
+    cout<<"The name of the CandyBar: "<<p_candybar[2].company<<endl;
+    cout<<"The diameter of the CandyBar: "<<p_candybar[2].diameter<<endl;
+    cout<<"The calories of the CandyBar: "<<p_candybar[2].calories<<endl<<endl;
+    return 0;
+}
+```
+
+### 4.10
+---
+```cpp=
+#include<iostream>
+#include<array>
+using namespace std;
+int main(){
+    array<double,3>result;
+    cout<<"Enter three result of the 40 meters running time: "<<endl;
+    cin>>result[0];
+    cin>>result[1];
+    cin>>result[2];
+    double ave_result=(result[0]+result[1]+result[2])/3;
+    cout<<"The all three time results is are: "<<result[0]<<", "<<result[1]<<", "<<result[2]<<endl;
+    cout<<"The average result is: "<<ave_result<<endl;
+    return 0;
+}
+```
