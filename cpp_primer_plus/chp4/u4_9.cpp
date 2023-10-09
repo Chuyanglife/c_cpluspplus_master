@@ -12,6 +12,6 @@ int main(){
         {"Big Rabbit",5,300},
         {"Joy Boy",4.1,430}
     };
-    cout<<"The name of the CandyBar: "<<
+    cout<<"The name of the CandyBar: "<<p_candybar[0].
     return 0;
 }
