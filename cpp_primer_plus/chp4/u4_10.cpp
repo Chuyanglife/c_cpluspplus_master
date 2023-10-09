@@ -2,6 +2,7 @@
 #include<array>
 using namespace std;
 int main(){
-    array 
+    array<double,3>result;
+    
     return 0;
 }
