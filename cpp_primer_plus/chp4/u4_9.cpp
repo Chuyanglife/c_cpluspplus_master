@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-struct Pizza{
+struct CAndyBar{
     string company;
     double diameter;
     double weight;
