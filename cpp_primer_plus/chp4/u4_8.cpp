@@ -13,6 +13,7 @@ int main(){
     cout<<"Enter the weight of pizza: ";
     cin>>pizza->weight;
     cout<<"Enter the pizza company: ";
+    cin.get();
     getline(cin,pizza->company);
     cout<<endl<<"Here is the pizza information: "<<endl;
     cout<<"Company: "<<pizza->company<<endl;
