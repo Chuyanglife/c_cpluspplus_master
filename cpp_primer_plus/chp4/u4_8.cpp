@@ -14,6 +14,6 @@ int main(){
     cin>>pizza->weight;
     cout<<"Enter the pizza company: ";
     getline(cin,pizza->company);
-    
+    cout<<endl<<
     return 0;
 }
