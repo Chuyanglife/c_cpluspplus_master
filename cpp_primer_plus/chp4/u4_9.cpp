@@ -13,6 +13,8 @@ int main(){
         {"Joy Boy",4.1,430}
     };
     cout<<"The name of the CandyBar: "<<p_candybar[0].company<<endl;
-    cout<<"The "
+    cout<<"The diameter of the CandyBar: "<<p_candybar[0].diameter<<endl;
+    cout<<"The calories of the CandyBar: "<<p_candybar[0].calories<<endl<<endl;
+    
     return 0;
 }
