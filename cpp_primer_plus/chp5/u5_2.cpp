@@ -8,6 +8,9 @@ int main(){
     for(int i=2;i<=factorials.size();i++){
         factorials[i]=i*factorials[i-1];
     }
+    for(int i=2;i<=factorials.size();i++){
+        factorials[i]=i*factorials[i-1];
+    }
     return 0;
 }
 /* #include <iostream>
