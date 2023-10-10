@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Admin/OneDrive/Desktop/c_language",
-      "program": "c:/Users/Admin/OneDrive/Desktop/c_language/build/Debug/outDebug",
+      "cwd": "d:/dev/c_cpluspplus_master/cpp_primer_plus/chp5",
+      "program": "d:/dev/c_cpluspplus_master/cpp_primer_plus/chp5/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
