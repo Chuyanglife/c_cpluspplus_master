@@ -21,5 +21,6 @@ int main(){
     cout<<"The name of the CandyBar: "<<p_candybar[2].company<<endl;
     cout<<"The diameter of the CandyBar: "<<p_candybar[2].diameter<<endl;
     cout<<"The calories of the CandyBar: "<<p_candybar[2].calories<<endl<<endl;
+    delete [] p_candybar;
     return 0;
 }

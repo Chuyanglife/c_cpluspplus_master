@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp_primer_plus/chp5/readme5.md",
+                "file": "cpp_primer_plus/chp4/readme4.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp_primer_plus/chp5/readme5.md",
+                "file": "cpp_primer_plus/chp4/readme4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp_primer_plus/chp5/readme5.md",
+                "file": "cpp_primer_plus/chp4/readme4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp_primer_plus/chp5/readme5.md"
+                "file": "cpp_primer_plus/chp4/readme4.md"
               }
             }
           },
@@ -158,8 +158,8 @@
   },
   "active": "62d646aec098c661",
   "lastOpenFiles": [
-    "cpp_primer_plus/chp4/readme4.md",
     "cpp_primer_plus/chp5/readme5.md",
+    "cpp_primer_plus/chp4/readme4.md",
     "cpp_primer_plus/chp5/u5_2.exe",
     "cpp_primer_plus/chp5/u5_2.cpp",
     "cpp_primer_plus/chp5/u5_1.exe",
