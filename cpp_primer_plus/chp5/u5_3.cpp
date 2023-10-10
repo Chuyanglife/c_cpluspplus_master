@@ -10,6 +10,6 @@ int main(){
         }
         s+=ch;
     }
-    cout<<""
+    cout<<s<<endl;
     return 0;
 }
