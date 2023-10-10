@@ -12,4 +12,8 @@ int main(){
     //system("pause");
     return 0;
 }  */
-#include
+#include<iostream>
+using namespace std;
+int main(){
+    
+}
