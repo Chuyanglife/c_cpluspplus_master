@@ -1,12 +1,14 @@
-/* #include<iostream>
+#include<iostream>
 #include<array>
 using namespace std;
 const int ar_size=100;
 int main(){
     array<long double,ar_size> factorials;
+    factorials[0]=factorials[1]=1;
+    for(int i=)
     return 0;
-}  */
-#include <iostream>
+}  
+/* #include <iostream>
 #include <array>
 
 
@@ -29,4 +31,4 @@ int main() {
     cout << endl;
 
     return 0;
-}
+} */
