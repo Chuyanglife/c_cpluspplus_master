@@ -3,8 +3,9 @@ using namespace std;
 int main(){
     double s=0;
     double ch;
-    while(cin>>ch){
+    while(1){
         cout<<"Enter a number (int/double) (0 to exit): ";
+        cin>>ch;
         if(ch==0){
             break;
         }
