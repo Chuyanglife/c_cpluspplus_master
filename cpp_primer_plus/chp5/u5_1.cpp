@@ -6,6 +6,8 @@ int main(){
     cin>>number1;
     cout<<"Enter the second number: ";
     cin>>number2;
-
+    if(number1>number2){
+        
+    }
     return 0;
 }
