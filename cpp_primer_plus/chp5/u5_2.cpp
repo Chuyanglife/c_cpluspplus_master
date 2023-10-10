@@ -1,7 +1,7 @@
 #include<iostream>
 #include<array>
 using namespace std;
-const 
+const int 
 int main(){
     
     return 0;
