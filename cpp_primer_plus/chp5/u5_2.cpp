@@ -5,7 +5,9 @@ const int ar_size=100;
 int main(){
     array<long double,ar_size> factorials;
     factorials[0]=factorials[1]=1;
-    for(int i=)
+    for(int i=2;i<=factorials.size();i++){
+        
+    }
     return 0;
 }  
 /* #include <iostream>
