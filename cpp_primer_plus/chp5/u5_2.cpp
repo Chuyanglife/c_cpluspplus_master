@@ -9,7 +9,7 @@ int main(){
         factorials[i]=i*factorials[i-1];
     }
     for(int i=0;i<=factorials.size();i++){
-        cout<<
+        cout<<i<<"! = "<<factorials[i]<<endl;
     }
     return 0;
 }
