@@ -7,7 +7,9 @@ int main(){
     cout<<"Enter the second number: ";
     cin>>number2;
     if(number1>number2){
-        int tmp=
+        int tmp=number1;
+        number2=number1;
+        
     }
     return 0;
 }
