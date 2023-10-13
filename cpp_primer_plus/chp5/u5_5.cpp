@@ -11,6 +11,6 @@ int main(){
         cin>>sell[i];
         total_sales+=sell[i];
     }
-    cout<<""
+    cout<<"The total sales is "<<total_sales<<endl;
     return 0;
 } 
