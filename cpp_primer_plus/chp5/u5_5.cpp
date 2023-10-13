@@ -12,5 +12,8 @@ int main(){
         total_sales+=sell[i];
     }
     cout<<"The total sales is "<<total_sales<<endl;
+    for(int i=0;i<=12;i++){
+        cout<<months[i]=":"<<endl;
+    }
     return 0;
 } 
