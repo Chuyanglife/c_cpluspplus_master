@@ -11,6 +11,6 @@ int main(){
         cin>>sell[i];
         total_sales+=sell[i];
     }
-    
+    cout<<""
     return 0;
 } 
