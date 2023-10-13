@@ -13,7 +13,7 @@ int main(){
     }
     cout<<"The total sales is "<<total_sales<<endl;
     for(int i=0;i<=12;i++){
-        cout<<months[i]=":"<<endl;
+        cout<<months[i]=": "<<sell[i]<<endl;
     }
     return 0;
 } 
