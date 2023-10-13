@@ -7,7 +7,8 @@ int main(){
     int total_sales=0;
 
     for(int i=0;i<=12;i++){
-        cout<<""
+        cout<<"Enter the sales of book <<C++ for Fools>> each month." << endl;
+        
     }
     return 0;
 } 
