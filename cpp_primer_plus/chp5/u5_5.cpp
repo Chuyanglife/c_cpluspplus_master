@@ -9,7 +9,7 @@ int main(){
     for(int i=0;i<=12;i++){
         cout<<months[i]=":";
         cin>>sell[i];
-        
+        total_sales+=sell
     }
     return 0;
 } 
