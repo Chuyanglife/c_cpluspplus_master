@@ -8,6 +8,7 @@ int main(){
     for(int i=0;i<3;i++){
         cout<<"Enter "<<i+1<<" year(s) sales of book <<C++ for Fools>> each month."<<endl;
         for(int j=0;j<12;j++){
+            cout<<months[j]<<": ";
             
         }
     }
