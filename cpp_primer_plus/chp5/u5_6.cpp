@@ -5,6 +5,8 @@ int main(){
     string months[12]={"Jan", "Feb", "Mar", "Apr", "May","Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"};
     int sells[3][12];
     int total_sales[3]={0,0,0};
-    
+    for(int i=0;i<=3;i++){
+        
+    }
     return 0;
 } 
