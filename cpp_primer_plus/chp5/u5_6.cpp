@@ -6,7 +6,7 @@ int main(){
     int sells[3][12];
     int total_sales[3]={0,0,0};
     for(int i=0;i<3;i++){
-        cout<<"Enter "<<i+1<<" year(s) sales of book <<C++ for Fools>> each months."<<endl;
+        cout<<"Enter "<<i+1<<" year(s) sales of book <<C++ for Fools>> each month."<<endl;
         
     }
     return 0;
