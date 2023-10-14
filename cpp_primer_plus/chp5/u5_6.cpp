@@ -10,8 +10,9 @@ int main(){
         for(int j=0;j<12;j++){
             cout<<months[j]<<": ";
             cin>>sells[i][j];
-            
+            total_sales[i]+=sells[i][j];
         }
     }
+    
     return 0;
 } 
