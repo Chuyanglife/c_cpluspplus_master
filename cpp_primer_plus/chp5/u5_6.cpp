@@ -13,6 +13,8 @@ int main(){
             total_sales[i]+=sells[i][j];
         }
     }
-    
+    for(int i=0;i<3;i++){
+        cout<<i+1<<" year(s)"
+    }
     return 0;
 } 
