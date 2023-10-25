@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62d646aec098c661",
+            "id": "4ccc0f340e0ea86e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -156,22 +156,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "62d646aec098c661",
+  "active": "4ccc0f340e0ea86e",
   "lastOpenFiles": [
+    "books/Primer c++ 第5版.pdf",
+    "cpp_primer_plus/chp5/readme5.md",
+    "books/C++ Primer plus第6版（中文版）.pdf",
+    "books/C Primer Plus 第六版 [带书签].pdf",
+    "books/c++ primer习题集第五版/C++ Primer第五版中文版习题集上.pdf",
+    "books/c++ primer习题集第五版/C++ Primer第五版习题集完整版下.pdf",
+    "books/c++ primer习题集第五版",
+    "books",
+    "New folder",
     "cpp_primer_plus/chp5/u5_7.cpp",
     "cpp_primer_plus/chp5/u5_6.exe",
-    "cpp_primer_plus/chp5/u5_6.cpp",
-    "cpp_primer_plus/chp5/u5_5.cpp",
     "cpp_primer_plus/chp3/readme3.md",
     "cpp_primer_plus/chp4/readme4.md",
-    "cpp_primer_plus/chp5/readme5.md",
-    "cpp_primer_plus/chp5/u5_4.exe",
-    "cpp_primer_plus/chp5/u5_4.cpp",
-    "cpp_primer_plus/chp5/u5_3.exe",
-    "cpp_primer_plus/chp5/u5_3.cpp",
-    "cpp_primer_plus/chp5/u5_2.exe",
-    "cpp_primer_plus/chp5/u5_2.cpp",
-    "cpp_primer_plus/chp5/u5_1.exe",
     "README.md",
     "cpp_primer_plus/cpp keynote.md"
   ]
