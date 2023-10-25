@@ -28,5 +28,8 @@ int main(){
     cout<<"short: "<<b<<endl;
     cout<<"long: "<<c<<endl;
     cout<<"long long: "<<d<<endl;
+
+    int q(5);
+    cout<<q<<endl;
     return 0;
 }
