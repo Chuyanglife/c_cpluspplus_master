@@ -30,7 +30,3 @@ int main(){
 }
 ```
 
-### bilibili
----
-1. https://www.bilibili.com/video/BV1sK41127iZ?p=4&spm_id_from=pageDriver&vd_source=1046b7a48c2d169417a3d383ad90d42b
-2. 
