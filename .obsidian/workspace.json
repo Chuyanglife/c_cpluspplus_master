@@ -10,6 +10,18 @@
           {
             "id": "4ccc0f340e0ea86e",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "books/C++ Primer plus第6版（中文版）_compressed.pdf"
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "e2495529315ec5ed",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,12 +169,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ccc0f340e0ea86e",
+  "active": "e2495529315ec5ed",
   "lastOpenFiles": [
     "books/C++ Primer plus第6版（中文版）_compressed.pdf",
+    "cpp_primer_plus/chp5/readme5.md",
     "books/Primer c++ 第5版_compressed.pdf",
     "README.md",
-    "cpp_primer_plus/chp5/readme5.md",
     "books/Primer c++ 第5版.pdf",
     "books/C++ Primer plus第6版（中文版）.pdf",
     "books/C Primer Plus 第六版 [带书签].pdf",
@@ -170,7 +183,6 @@
     "books/c++ primer习题集第五版",
     "books",
     "New folder",
-    "cpp_primer_plus/chp5/u5_7.cpp",
     "cpp_primer_plus/chp3/readme3.md",
     "cpp_primer_plus/chp4/readme4.md",
     "cpp_primer_plus/cpp keynote.md"
