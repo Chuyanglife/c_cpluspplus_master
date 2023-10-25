@@ -24,9 +24,9 @@ int main(){
     cout<<"long: "<<sizeof(long)<<" bytes"<<endl;
     cout<<"long long: "<<sizeof(long long)<<" bytes"<<endl;
     cout<<endl;
-    cout<<"a "<<a<<endl;
-    cout<<"b "<<b<<endl;
-    cout<<"c "<<c<<endl;
-    cout<<"d "<<d<<endl;
+    cout<<"int: "<<a<<endl;
+    cout<<"short: "<<b<<endl;
+    cout<<"long: "<<c<<endl;
+    cout<<"long long: "<<d<<endl;
     return 0;
 }
