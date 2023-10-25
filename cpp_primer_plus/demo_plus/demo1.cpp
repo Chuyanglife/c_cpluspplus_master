@@ -29,7 +29,8 @@ int main(){
     cout<<"long: "<<c<<endl;
     cout<<"long long: "<<d<<endl;
 
-    int q{1,2,3,4,5,6,7,8};
+    int qq(5);
+    int q{1};
     cout<<q<<endl;
     return 0;
 }
