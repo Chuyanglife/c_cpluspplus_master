@@ -30,8 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b121df4e09775cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp_primer_plus/chp3/readme3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books/C++ Primer plus第6版（中文版）_compressed.pdf",
+                "file": "cpp_primer_plus/chp3/readme3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "books/C++ Primer plus第6版（中文版）_compressed.pdf",
+                "file": "cpp_primer_plus/chp3/readme3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books/C++ Primer plus第6版（中文版）_compressed.pdf"
+                "file": "cpp_primer_plus/chp3/readme3.md"
               }
             }
           },
@@ -168,10 +181,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4ccc0f340e0ea86e",
+  "active": "b121df4e09775cd8",
   "lastOpenFiles": [
-    "cpp_primer_plus/chp5/readme5.md",
     "books/C++ Primer plus第6版（中文版）_compressed.pdf",
+    "cpp_primer_plus/chp5/readme5.md",
     "books/Primer c++ 第5版_compressed.pdf",
     "README.md",
     "books/Primer c++ 第5版.pdf",
