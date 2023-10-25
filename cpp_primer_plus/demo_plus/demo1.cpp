@@ -31,6 +31,6 @@ int main(){
 
     int qq(5);
     int q{1};
-    cout<<q<<endl;
+    cout<<"qq:"<<qq<<q<<endl;
     return 0;
 }
