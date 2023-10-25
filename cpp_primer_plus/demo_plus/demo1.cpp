@@ -21,6 +21,7 @@ int main(){
     long long d=LLONG_MAX;
     cout<<"a"<<a<<endl;
     cout<<"b"<<b<<endl;
-    cout<<
+    cout<<"c"<<c<<endl;
+    cout<<"d"<<d<<endl;
     return 0;
 }
