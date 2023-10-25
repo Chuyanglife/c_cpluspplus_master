@@ -19,9 +19,14 @@ int main(){
     short b= SHRT_MAX;
     long c=LONG_MAX;
     long long d=LLONG_MAX;
-    cout<<"a"<<a<<endl;
-    cout<<"b"<<b<<endl;
-    cout<<"c"<<c<<endl;
-    cout<<"d"<<d<<endl;
+    cout<<"int: "<<sizeof(int)<<" bytes"<<endl;
+    cout<<"short: "<<sizeof(short)<<" bytes"<<endl;
+    cout<<"long: "<<sizeof(long)<<" bytes"<<endl;
+    cout<<"long long: "<<sizeof(long long)<<" bytes"<<endl;
+    cout<<endl;
+    cout<<"a "<<a<<endl;
+    cout<<"b "<<b<<endl;
+    cout<<"c "<<c<<endl;
+    cout<<"d "<<d<<endl;
     return 0;
 }
