@@ -15,10 +15,7 @@ int main(){
 #include<iostream>
 using namespace std;
 int main(){
-    int a=10,b=4,c=0,d=0;
-    c=15/3;
-    d=15%3;
-    cout<<"c: "<<c<<endl;
-    cout<<"d: "<<d<<endl;
+    int a= INT_MAX;
+    cout<<"a"<<a<<endl;
     return 0;
 }
