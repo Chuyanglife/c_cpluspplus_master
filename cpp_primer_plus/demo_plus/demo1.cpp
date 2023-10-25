@@ -17,7 +17,7 @@ using namespace std;
 int main(){
     int a= INT_MAX;
     short b= SHRT_MAX;
-    long c=LONG_MAX
+    long c=LONG_MAX;
     long long d=LLONG_MAX;
     cout<<"a"<<a<<endl;
     cout<<"b"<<b<<endl;
