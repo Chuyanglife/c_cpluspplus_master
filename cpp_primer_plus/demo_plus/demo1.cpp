@@ -12,23 +12,3 @@ int main(){
     //system("pause");
     return 0;
 }  */
-#include<iostream>
-#define ZERO 0;
-using namespace std;
-int main(){
-    short a = SHRT_MAX;
-    unsigned short aa= a;
-    cout<<"short:"<<a<<endl;
-    cout<<"unsigned short:"<<aa<<endl;
-    a= a+1;
-    aa= aa+1;
-    cout<<"short:"<<a<<endl;
-    cout<<"unsigned short:"<<aa<<endl;
-    a=ZERO;
-    aa=ZERO;
-    a=a-1;
-    aa=a-1;
-    cout<<"short:"<<a<<endl;
-    cout<<"unsigned short:"<<aa<<endl;
-    return 0;
-}
