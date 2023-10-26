@@ -26,7 +26,7 @@ int main(){
     cout<<"unsigned short:"<<aa<<endl;
     a=ZERO;
     aa=ZERO;
-    a=a-1;
+    a=a1;
     aa=a-1;
     cout<<"short:"<<a<<endl;
     cout<<"unsigned short:"<<aa<<endl;
