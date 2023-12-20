@@ -15,7 +15,8 @@ int main(){
 #include<iostream>
 using namespace std;
 int main(){
-    
+    int a[2]={2,4};
+    cout<<a[0]<<" "<<a[1]<<endl;
     for(int i=0;i<10;i++){
         cout<<"Hello World!"<<endl;
     }
