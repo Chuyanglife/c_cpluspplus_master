@@ -16,7 +16,7 @@ int main(){
 using namespace std;
 int main(){
     int q;
-    
+    while(cin>>q){
     int a[2]={2,4};
     string a2="puki dad";
     cout<<a2<<endl;
