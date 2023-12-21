@@ -15,6 +15,8 @@ int main(){
 #include<iostream>
 using namespace std;
 int main(){
+    int q;
+    
     int a[2]={2,4};
     string a2="puki dad";
     cout<<a2<<endl;
