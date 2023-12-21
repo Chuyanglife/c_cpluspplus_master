@@ -20,7 +20,7 @@ int main(){
     while(cin>>q){
         if(q==0){break;}
         i+=q;
-        cout<<q<<endl;
+        cout<<i<<endl;
     }
     return 0;
 }
