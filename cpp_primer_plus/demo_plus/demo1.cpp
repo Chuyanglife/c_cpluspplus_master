@@ -16,9 +16,9 @@ int main(){
 using namespace std;
 int main(){
     int q;
+    int i=0;
     while(cin>>q){
         if(q==0){break;}
-        int i=0;
         i+=q;
         cout<<q<<endl;
     }
